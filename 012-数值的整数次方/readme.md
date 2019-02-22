@@ -1,4 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ### 题目描述
 给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。
 
@@ -8,3 +7,4 @@
 
 ### 思路2（best)
 仅需循环$$\left \lceil \sqrt{exponent} \right \rceil$$次。
+<a href="https://www.codecogs.com/eqnedit.php?latex=\inline&space;\left&space;\lceil&space;\sqrt{exponent}&space;\right&space;\rceil" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\inline&space;\left&space;\lceil&space;\sqrt{exponent}&space;\right&space;\rceil" title="\left \lceil \sqrt{exponent} \right \rceil" /></a>
