@@ -1,3 +1,4 @@
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
 ### 题目描述
 给定一个double类型的浮点数base和int类型的整数exponent。求base的exponent次方。
 
